@@ -1,0 +1,228 @@
+
+*{
+margin: 0;
+padding: 0;
+}
+
+
+body{
+    
+    font-family: sans-serif;
+    font-size: 16px;
+    
+}
+
+
+
+ h1{
+   font-size: 26px;
+   text-align: center;
+   
+ } 
+
+ .banner{
+  background-color: rgb(49, 45, 45);
+  width: 1257px;
+  height: 250px;
+  border: 2px solid rgb(248, 91, 0);
+  }
+
+ #topo{
+    background-color: rgb(49, 45, 45);
+    width: 1259px;
+    height: 70px;
+    text-align: center;
+    border: 2px solid rgb(255, 140, 0)
+ 
+ }
+
+#topo h1{
+color: orange;
+}
+
+ #menu{
+    color: antiquewhite;
+    background-color: rgb(49, 45, 45);
+ }
+
+
+ #Destaques{
+background-color: rgb(49, 45, 45);
+width: 1260px;
+height: 400px;
+padding-top: 5px;
+text-align: center;
+ }
+
+ .foto{
+padding: 5px;
+border: 2px solid rgb(248, 91, 0);
+ width: 300px;
+ height: 300px;
+ text-align: center;
+ }
+
+
+ #bio{
+  background-color: rgb(49, 45, 45);
+  color: aliceblue;
+ width: 1260px;
+ height: 80px;
+text-align: center;
+}
+
+
+ #bio p{
+text-align:center;
+font-size: 15px;
+
+ }
+
+ #rodape{
+background-color: rgb(248, 91, 0);
+width: 1257px;
+border: 2px solid rgb(0,0,0)
+
+ }
+#rodape p{
+text-align: center;
+    font-size: 14px;
+}
+
+#tudo{
+
+    width: 1260px;
+    border: 1px solid rgb(49, 45, 45)
+    margin: auto;
+}
+
+ #menu{
+  border: 2px solid rgb(49,45,45);
+  width: 1257px;
+
+ }
+
+ #menu ul{
+  background-color: rgb(0,0,0);
+  
+ 
+ }
+#menu ul li{
+  display: inline;
+
+}
+
+#menu ul li a{
+  padding: 15px 73.1px;
+  display: inline-block;
+
+  color: orange;
+  text-decoration: none;
+
+}
+
+#menu ul li a:hover{
+ color:white;
+border: 1px solid rgb(250, 250, 250);
+
+
+}
+
+#eu{
+background-color: rgb(49, 45, 45);
+  border: 2px solid rgb(49, 45, 45);
+  color: aliceblue;
+ width: 1257px;
+height: 280px;
+text-align: center;
+
+}
+
+#fotoss {
+  background-color: rgb(49, 45, 45);
+  border: 2px solid rgb(49, 45, 45);
+  color: aliceblue;
+ width: 1260px;
+height: 610px;
+
+}
+
+.fotoss{
+  padding: 5px;
+border: 2px solid rgb(248, 91, 0);
+ width: 295px;
+ height: 295px;
+ text-align: center;}
+
+ #treino{
+  background-color: rgb(49, 45, 45);
+  border: 2px solid rgb(49, 45, 45);
+  color: aliceblue;
+  width: 1258px;
+  text-align: left;
+}
+#treino h3{
+ color: orange;
+}
+
+#treino h4{
+ color: orange;
+ text-align: center;
+}
+
+ #treinos{
+ background-color: rgb(49, 45, 45);
+  border: 2px solid rgb(49, 45, 45);
+  color: aliceblue;
+ width: 1260px;
+height: 400px;
+text-align: center;
+}
+
+.treinos{
+  padding: 5px;
+border: 2px solid rgb(248, 91, 0);
+ width: 295px;
+ height: 295px;
+ text-align: center;
+}
+
+#desenhos{
+ background-color: rgb(49, 45, 45);
+  border: 2px solid rgb(49, 45, 45);
+  color: aliceblue;
+ width: 1257px;
+height: 350px;
+}
+
+.desenhos{
+ padding: 5px;
+ border: 2px solid rgb(248, 91, 0);
+ width: 295px;
+ height: 295px;
+ text-align: center;
+}
+
+
+#contato{
+  background-color: rgb(49, 45, 45);
+  border: 2px solid rgb(49, 45, 45);
+  color: aliceblue;
+ width: 1257px;
+height: 280px;
+text-align: center;
+}
+ 
+#contato h2{
+
+  font-size: 25px;
+  text-align: left;
+  color:orange;
+}
+
+#contato p{
+
+  font-size: 20px;
+  text-align: left;
+}
+
